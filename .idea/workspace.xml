@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ec079b4-f10c-4430-9001-ddaf144e130d" name="Changes" comment="Added and got Cone working" />
+    <list default="true" id="4ec079b4-f10c-4430-9001-ddaf144e130d" name="Changes" comment="Added and got Cone working">
+      <change afterPath="$PROJECT_DIR$/src/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShapeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeArray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699049424059</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added and got Cone working">
+      <created>1699049959659</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699049959659</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
