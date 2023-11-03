@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ec079b4-f10c-4430-9001-ddaf144e130d" name="Changes" comment="first commit sphere, shapearray, and shape working">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ShapeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShapeArray.java" afterDir="false" />
-    </list>
+    <list default="true" id="4ec079b4-f10c-4430-9001-ddaf144e130d" name="Changes" comment="Added and got Cone working" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +20,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN",
+      "author": "cletizio"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN",
+    "author": "cletizio"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f8e49d1d-746b-48ef-ab9c-951254d84131" />
+        <option name="url" value="https://github.com/cletizio/CSC372_CT4" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,13 +49,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/chrisletizio/Documents/Chris School/CSC372 - Programming 2/Module 4/CSC372-CT4-OPT1"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/chrisletizio/Documents/Chris School/CSC372 - Programming 2/Module 4/CSC372-CT4-OPT1&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699047871401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added and got Cone working">
+      <created>1699048970206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699048970206</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit sphere, shapearray, and shape working" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit sphere, shapearray, and shape working" />
+    <MESSAGE value="Added and got Cone working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added and got Cone working" />
   </component>
 </project>
