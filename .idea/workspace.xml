@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ec079b4-f10c-4430-9001-ddaf144e130d" name="Changes" comment="Added and got Cylinder working">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="4ec079b4-f10c-4430-9001-ddaf144e130d" name="Changes" comment="removed UI forms">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/CSC372-CT4-OPT1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/CSC372_CT4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/out/production/CSC372-CT4-OPT1/Cone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/out/production/CSC372-CT4-OPT1/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/out/production/CSC372-CT4-OPT1/ShapeArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/out/production/CSC372-CT4-OPT1/Sphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/src/Cone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/src/ShapeArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372-CT4-OPT1/src/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSC372_CT4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +88,8 @@
     "last_opened_file_path": "/Users/chrisletizio/Documents/Chris School/CSC372 - Programming 2/Module 4/CSC372-CT4-OPT1",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="Push.Settings">
@@ -144,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1699051114971</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="removed UI forms">
+      <created>1699101943954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699101943954</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +201,7 @@
     <MESSAGE value="first commit sphere, shapearray, and shape working" />
     <MESSAGE value="Added and got Cone working" />
     <MESSAGE value="Added and got Cylinder working" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added and got Cylinder working" />
+    <MESSAGE value="removed UI forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed UI forms" />
   </component>
 </project>
